@@ -11,4 +11,4 @@ Debéis abrir el archivo `main`, allí encontraréis información sobre todos lo
 
 El primer equipo que consiga llegar al lab tendrá premio.
 
-Pista: Para poder acceder al lab la contraseña es "Sonia"
+**Pista**: Para poder acceder al lab la contraseña es *"Sonia"*
