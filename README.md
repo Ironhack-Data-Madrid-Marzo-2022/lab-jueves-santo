@@ -9,4 +9,4 @@ Este lab dará comienzo en breves...
 
 Debéis abrir el archivo `main`, allí encontraréis información sobre todos los labs que habéis hecho hasta ahora. También se encuentra el lab de hoy, utilizad selenium para automatizar la apertura del repo del lab (es decir, no vale copiar y pegar la url en el browser ni navegar por github).
 
-El primer equipo que consiga llegar al comienzo del lab tendrá premio.
+El primer equipo que consiga llegar al lab tendrá premio.
